@@ -1,2 +1,2 @@
-# Number-Guess
-Made with C#. Play number guess against the computer.
+# Word-Guess
+Made with C#. Play word guess against the computer.
