@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIPizza", "GUIPizza\GUIPizza.csproj", "{72BBCC34-8899-405E-AB48-7B1406021B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72BBCC34-8899-405E-AB48-7B1406021B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BBCC34-8899-405E-AB48-7B1406021B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BBCC34-8899-405E-AB48-7B1406021B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BBCC34-8899-405E-AB48-7B1406021B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598B9420-BE48-4AF1-9A9C-9D80BC77FD5F}
+	EndGlobalSection
+EndGlobal

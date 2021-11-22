@@ -1,0 +1,11 @@
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\bin\Debug\GUIPizza.exe
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\bin\Debug\GUIPizza.pdb
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.csprojAssemblyReference.cache
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.Properties.Resources.resources
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.csproj.GenerateResource.cache
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.exe
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.pdb
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.frmMain.resources
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.formHelp.resources
+C:\Users\Bryce\Google Drive\SCTCC\Semester 3\C# Programming\Chapter 12\GUIPizza\GUIPizza\obj\Debug\GUIPizza.tip.resources
